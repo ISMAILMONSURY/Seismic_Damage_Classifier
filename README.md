@@ -1,2 +1,2 @@
 # Seismic_Damage_Classifier
-This is a part of the research project I have been working with. Project aimed to build effective machine learning classification algorithms for seismic damage assessemnt of buildings. A random forest model have been developed in the initial stage. Data cleaning and preprocessing have also been done. A complete machine learning model has developed.
+This is a part of the research project I have been working with. The project aimed to build effective machine learning classification algorithms for seismic vulnerability assessment of buildings. Some machine learning  models have been developed in the initial stage. Data cleaning, preprocessing, and visualization have also been done.
